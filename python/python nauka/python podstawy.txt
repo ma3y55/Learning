@@ -1,0 +1,35 @@
+I
+
+1. Zmienne
+
+x = 4
+name = "Nazywam sie Robert"
+
+zmienne nazewnictwo: 
+- małe litery
+- wielkie listery
+- podkreślenia
+- cyfry (ale nie jako pierwszy znak
+
+dobre praktyki:
+- tylko małe litery i podkreślenia
+- tylko wielkie litery i podkreślenia
+
+2. funkcja print
+
+print("hello world) wypisanie napisu 
+print("moje ubulone sporty to:", "siłownia", "boks", "bieganie", sep=", ") - użycie separatora
+znaki specjalne (używane jako separatory) :
+ \n - nowa linia 
+ \t - tabulacja
+
+3. funkcja input
+
+
+answer = input("czy lubisz kolor zielony?")
+print("answer") 
+
+4. Komentrze
+
+# oto komentarz
+

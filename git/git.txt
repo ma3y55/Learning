@@ -1,0 +1,24 @@
+komendy git konfiguracja
+git config --global user.name ""
+git config -- global user.email mail@.com
+
+sprawdzenie 
+git config user.name
+git config user.email
+
+utworzenie repozytorium
+
+udanie sie do katalogu i wpisanie 
+git init
+
+ls -la sprawdzenie ukrytych plików
+git status 
+
+utworzenie pliku w pycharmie git.ignore wpisujemy 
+
+.idea/
+.pyc
+
+
+dodanie commita
+git add -A  dodanie wszystkich plikow
